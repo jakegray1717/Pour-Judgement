@@ -2,7 +2,6 @@ import React from 'react';
 import { Carousel } from 'react-bootstrap';
 
 const DrinkCarousel = ({ drinks }) => {
-  console.log("DRINKS", drinks);
 
   return (
     <div>
