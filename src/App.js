@@ -1,7 +1,7 @@
 import './App.css';
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { Button, Navbar, Nav, Form, FormControl } from 'react-bootstrap';
+import { Button } from 'react-bootstrap';
 import Search from './Search.jsx';
 import DrinkCarousel from './DrinkCarousel';
 import DrinkList from './DrinkList';
@@ -33,7 +33,7 @@ const App = () => {
     return (
       <div className="App">
         <div className="App-body">
-          <img src="./pour_judgement_gif.gif" alt="" width="500" height="500"/>
+          <img src="./pour_judgement_gif.gif" alt="" width="500" height="110"/>
           <DrinkCarousel drinks={randomDrinks} />
           <Search setSearch={setSearch} />
           <DrinkList drinks={searchedDrinks} />
