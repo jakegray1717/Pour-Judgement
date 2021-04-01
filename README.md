@@ -35,7 +35,7 @@ Once the project moves into development, the press release can be used as a touc
   > "The problem is not the problem, the problem is your attitude witht the problem" -Jack Sparrow
 
 ## How to Get Started ##
-  > Use the search bar to look up a cocktail or use the random cocktail button for some inspiration.
+  > This app is both modile and desktop friendly but is designed to be use mobily. Use the search bar to look up a cocktail or use the random cocktail button for some inspiration.
 
 ## Customer Quote ##
   > "All the recipes for cocktails all in one place. Amazing!"
