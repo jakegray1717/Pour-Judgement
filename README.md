@@ -31,9 +31,6 @@ Once the project moves into development, the press release can be used as a touc
 ## Solution ##
   > Pour judgement has all the cocktails you want in one place and formatted with all the information needed to make an excellent drink quickly and accurately.
 
-## Quote from You ##
-  > "The problem is not the problem, the problem is your attitude witht the problem" -Jack Sparrow
-
 ## How to Get Started ##
   > This app is both modile and desktop friendly but is designed to be use mobily. Use the search bar to look up a cocktail or use the random cocktail button for some inspiration.
 
